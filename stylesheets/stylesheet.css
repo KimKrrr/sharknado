@@ -16,6 +16,11 @@ body {
   margin: 0 auto;
 }
 
+#headerShark {
+    background: black url(/images/shark3.jpg) center no-repeat;
+   
+}
+
 section {
   display: block;
   margin: 0 0 20px 0;
@@ -36,7 +41,7 @@ li {
 */
 
 header {
-  background: rgba(0, 0, 0, 0.1);
+  background: #151515 url("../images/shark7.gif") center repeat-x ;
   width: 100%;
   border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
